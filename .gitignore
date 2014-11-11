@@ -41,3 +41,17 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+*.classpath
+.settings/org.eclipse.core.resources.prefs
+*.project
+*.prefs
+target/classes/com/datayes/testapp/testchrome/Test1.class
+target/classes/com/datayes/testapp/testchrome/DragAndDrop.class
+target/classes/com/datayes/testapp/testchrome/GroupCooperation.class
+target/classes/com/datayes/testapp/testchrome/MultiBrowsers.class
+target/classes/com/datayes/testapp/testchrome/PersonalCenter.class
+target/classes/com/datayes/testapp/testchrome/PublishMsg.class
+target/classes/com/datayes/testapp/testchrome/ScrollBar.class
+target/classes/com/datayes/testapp/testchrome/SnapShot.class
+target/test-classes/com/datayes/testapp/testchrome/AppTest.class
